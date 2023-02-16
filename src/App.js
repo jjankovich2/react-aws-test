@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Senior Design AWS Hosting Test
+          Senior Design Template
         </p>
         <a
           className="App-link"
